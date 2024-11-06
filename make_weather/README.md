@@ -4,10 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-## we have to use references for [https://www.youtube.com/watch?v=bm2Aof1dzaQ]
-
 In the project directory, you can run:
-## we install :npm list mathjs,npm install mathjs
 
 ### `npm start`
 
